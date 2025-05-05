@@ -1,0 +1,15 @@
+variable_name,description
+respondent_id,Unique respondent identifier
+resp_gender,Respondent gender
+region,Region of residence
+resp_age,Respondent age
+education,Highest level of education completed
+polid_numeric,Political identification (numeric scale)
+party_preference,Preferred political party
+prez_vote,Vote choice in most recent presidential election
+alt_dv_realestate,Policy attitude: Real estate
+alt_dv_foreign_policy,Policy attitude: Foreign policy
+alt_dv_nuclear_policy,Policy attitude: Nuclear weapons
+alt_dv_labor_policy,Policy attitude: Labor policy
+alt_dv_social_policy,Policy attitude: Social policy
+manipulation_check1,Assigned party cue (experimental manipulation check)
