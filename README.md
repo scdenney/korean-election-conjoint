@@ -1,5 +1,7 @@
 # Korean Election Conjoint Data
 
+[![DOI: Paper](https://img.shields.io/badge/DOI-10.1177%2F13540688251339976-blue?style=flat-square)](https://doi.org/10.1177/13540688251339976) [![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/scdenney/korean-election-conjoint)
+
 Replication data for the 2024 South Korea conjoint experiment on presidential candidate preferences.
 
 ## Files
