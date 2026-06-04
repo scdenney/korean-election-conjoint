@@ -23,3 +23,6 @@ housing_policy,Candidate housing policy stance
 social_policy,Candidate social policy stance
 foreign_policy,Candidate foreign policy stance
 nuclear_policy,Candidate nuclear weapons policy stance
+question_profile,"Task and profile identifier (e.g., '1.1' = task 1 profile 1; '1.2' = task 1 profile 2). 10 tasks x 2 profiles = 20 rows per respondent."
+chosen,"Forced-choice outcome: 1 = this profile was chosen by the respondent, 0 = the other profile was chosen. Derived from the Qualtrics CBC choice columns (Q31/Q33–Q36/Q39/Q41–Q44). Empty for 22 respondents (440 rows) whose raw Qualtrics responses could not be matched across available data extracts; exclude rows where chosen is empty for conjoint analysis."
+open_text_reason,"Open-text response explaining why the respondent chose the candidate they selected in task 6 (Q40 in the Qualtrics survey). Non-empty only for rows where question_profile = '6.2' (task 6, profile 2 row). Empty string otherwise."
